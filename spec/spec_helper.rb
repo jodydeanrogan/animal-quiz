@@ -1,0 +1,5 @@
+require 'rspec'
+require 'pry'
+require 'stringio'
+require './lib/node.rb'
+require './lib/quizmaster.rb'
